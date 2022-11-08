@@ -32,6 +32,8 @@ function Apple(options) {
           //   providerId: provider.id,
           // })
         } 
+      } else {
+        return profile
       }
       },
     },    
